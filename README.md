@@ -45,19 +45,18 @@ Ao longo da jornada foram explorados conceitos como:
 * DevOps na AWS
 
 ---
+## 🚧 Progresso da Trilha
 
-## 📂 Estrutura do Repositório
-
-```text
-📦 gft-fundamentos-cloud-aws
- ┣ 📂 desafios-de-projeto
- ┣ 📂 desafios-de-codigo
- ┣ 📂 laboratorios
- ┣ 📂 arquiteturas
- ┣ 📂 anotacoes
- ┣ 📂 imagens
- ┗ 📜 README.md
-```
+* [x] Fundamentos de Cloud Computing
+* [x] Computação com Amazon EC2
+* [x] Amazon S3
+* [x] AWS Lambda
+* [x] Redes com Amazon VPC
+* [ ] Banco de Dados na AWS
+* [ ] Segurança na AWS
+* [ ] Monitoramento e Governança
+* [ ] DevOps e Automação
+* [ ] Projetos Finais
 
 ---
 
