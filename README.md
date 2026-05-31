@@ -47,15 +47,19 @@ Ao longo da jornada foram explorados conceitos como:
 ---
 ## 🚧 Progresso da Trilha
 
-* [x] Fundamentos de Cloud Computing
-* [x] Computação com Amazon EC2
-* [x] Amazon S3
-* [x] AWS Lambda
-* [x] Redes com Amazon VPC
+## 🚧 Progresso da Trilha
+
+* [x] Introdução à AWS e Conceitos Básicos
+* [x] Computação na Nuvem com EC2
+* [x] Criando Recursos na AWS
+* [x] Redes na AWS
 * [ ] Banco de Dados na AWS
+* [ ] Serviços de Armazenamento e CDN
+* [ ] Serviços Intermediários e Avançados
+* [ ] Gerenciamento e Governança na AWS
 * [ ] Segurança na AWS
-* [ ] Monitoramento e Governança
-* [ ] DevOps e Automação
+* [ ] Desenvolvimento e Ferramenta
+* [ ] Automação e DevOps na AWS
 * [ ] Projetos Finais
 
 ---
