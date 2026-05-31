@@ -45,7 +45,6 @@ Ao longo da jornada foram explorados conceitos como:
 * DevOps na AWS
 
 ---
-## 🚧 Progresso da Trilha
 
 ## 🚧 Progresso da Trilha
 
